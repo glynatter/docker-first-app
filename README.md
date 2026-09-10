@@ -1,2 +1,2 @@
 # docker-first-app
-My first dcker practice
+My first docker practice
